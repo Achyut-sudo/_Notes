@@ -84,3 +84,6 @@ in this **$T(N) = an^2+ bn+ 2$ , which is quadratic**
 
 
 
+
+
+
